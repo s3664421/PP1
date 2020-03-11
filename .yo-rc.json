@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.blts.smartplant"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "SmartPlant",
+    "packageName": "com.blts.smartplant",
+    "packageFolder": "com/blts/smartplant",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODM0ZjJhMzUyZWU3ZDk0MTZiYTBmYTZkNDNhYjk2MGI1Nzk2NjdhM2FkNzcyYWU1M2I4MTA0ZTg1ZTczZjA3YTc4NDUzMGYyZDBiYWVjNWY2ZThjZTE3Mzc1NmQzNGYwODA1ZTQxOGZhMTc2YzRkODA0ZmZmNTQ3NGMzMTNjNjE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1583904363500,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
